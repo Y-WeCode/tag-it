@@ -1,0 +1,19 @@
+{
+    "name" : "ywc/tag-it",
+    "description" : "jquery-ui tag widget",
+    "authors" : [{
+        "name" : "Raphaël Babel",
+        "email" : "rbabel@yes-we-code.fr"
+    }],
+    "keywords" : [
+        "form types jquery-ui widget"
+    ],
+    "license" : [
+        "MIT"
+    ],    
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "0.0.0-dev"
+        }
+    }
+}
